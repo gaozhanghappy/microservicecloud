@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloud-consumer-dept-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001 (1).iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdept8002/microservicecloud-provider-dept8002.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdept8002/microservicecloud-provider-dept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdept8003/microservicecloud-provider-dept8003.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdept8003/microservicecloud-provider-dept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudapi/microservicecloudapi.iml" filepath="$PROJECT_DIR$/microservicecloudapi/microservicecloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudeureka7001/microservicecloudeureka7001.iml" filepath="$PROJECT_DIR$/microservicecloudeureka7001/microservicecloudeureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudeureka7002/microservicecloudeureka7002.iml" filepath="$PROJECT_DIR$/microservicecloudeureka7002/microservicecloudeureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudeureka7003/microservicecloudeureka7003.iml" filepath="$PROJECT_DIR$/microservicecloudeureka7003/microservicecloudeureka7003.iml" />
+    </modules>
+  </component>
+</project>
