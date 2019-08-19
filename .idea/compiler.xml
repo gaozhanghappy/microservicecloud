@@ -11,6 +11,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloud-consumer-dept-feign" />
         <module name="microservicecloud-provider-dept-8001 (1)" />
+        <module name="microservicecloud-provider-dept-hystrix-8001" />
         <module name="microservicecloud-provider-dept8002" />
         <module name="microservicecloud-provider-dept8003" />
         <module name="microservicecloudapi" />
@@ -25,6 +26,7 @@
       <module name="microservicecloud-consumer-dept-feign" target="1.8" />
       <module name="microservicecloud-provider-dept-8001" target="1.7" />
       <module name="microservicecloud-provider-dept-8001 (1)" target="1.8" />
+      <module name="microservicecloud-provider-dept-hystrix-8001" target="1.8" />
       <module name="microservicecloud-provider-dept8002" target="1.8" />
       <module name="microservicecloud-provider-dept8003" target="1.8" />
       <module name="microservicecloudapi" target="1.8" />

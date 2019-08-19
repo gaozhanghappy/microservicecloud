@@ -13,6 +13,7 @@
     <ignored path="$PROJECT_DIR$/microservicecloudproviderdept8002/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloudproviderdept8003/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,17 +37,25 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DeptController_Consumer.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="DeptController_Consumer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/controller/DeptController_Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="322">
+              <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,8 +63,18 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/cfgbeans/ConfigBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -64,7 +83,7 @@
       <file leaf-file-name="DeptConsunmer80_App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/DeptConsunmer80_App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="270">
               <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,74 +92,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigBean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/cfgbeans/ConfigBean.java">
+      <file leaf-file-name="DeptProviderHystrix8001.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/DeptProviderHystrix8001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="365">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeptController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/conreoller/DeptController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="34" column="65" lean-forward="false" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
               <folding>
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EurekaServer7002_App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudeureka7002/src/main/java/git/gaozhanghappy/EurekaServer7002_App.java">
+      <file leaf-file-name="DeptClientService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="369">
+              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudeureka7002/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudeureka7003/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudeureka7003/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloudeureka7002/src/main/resources/application.yml">
+      <file leaf-file-name="DeptClientServiceFallbackFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientServiceFallbackFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="78" />
-              <folding />
+              <caret line="24" column="67" lean-forward="false" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeptProvider8001.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/git/gaozhanghappy/DeptProvider8001.java">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="92">
+              <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -202,10 +208,17 @@
         <option value="$PROJECT_DIR$/microservicecloudconsumerdept80/src/main/java/git/myRule/MySelfRule.java" />
         <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloudapi/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientService.java" />
         <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/DeptConsunmer80_App.java" />
         <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/controller/DeptController_Consumer.java" />
         <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/cfgbeans/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/DeptProvider8001.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/DeptProviderHystrix8001.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/conreoller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientService.java" />
       </list>
     </option>
   </component>
@@ -329,6 +342,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloudproviderdepthystrix8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloudproviderdepthystrix8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloudproviderdepthystrix8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloudproviderdepthystrix8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gaozhanghappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="microservicecloudproviderdept8003" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1074,124 +1155,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gaozhanghappy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gaozhanghappy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservicecloud-provider-dept-8001" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gaozhanghappy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conreoller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1211,11 +1174,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github\springcloud\microservicecloudeureka7003\src\main" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="git.gaozhanghappy.conreoller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\springcloud\microservicecloudapi\src\main\java\git\gaozhanghappy\service" />
+      <recent name="D:\github\springcloud\microservicecloudeureka7003\src\main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1231,42 +1195,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.DeptConsunmer80_App">
-    <configuration default="false" name="DeptProvider8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="git.gaozhanghappy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.DeptProvider8001" />
-      <module name="microservicecloud-provider-dept-8001 (1)" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DeptProvider8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="git.gaozhanghappy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.DeptProvider8002" />
-      <module name="microservicecloud-provider-dept8002" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DeptProvider8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="git.gaozhanghappy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.DeptProvider8003" />
-      <module name="microservicecloud-provider-dept8003" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="DeptConsunmer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1288,6 +1216,42 @@
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.EurekaServer7002_App" />
       <module name="microservicecloudeureka7002" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="EurekaServer7001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="git.gaozhanghappy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.EurekaServer7001_App" />
+      <module name="microservicecloudeureka7001" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="EurekaServer7003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="git.gaozhanghappy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.EurekaServer7003_App" />
+      <module name="microservicecloudeureka7003" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DeptProviderHystrix8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="git.gaozhanghappy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="git.gaozhanghappy.DeptProviderHystrix8001" />
+      <module name="microservicecloud-provider-dept-hystrix-8001" />
       <envs />
       <method />
     </configuration>
@@ -1701,19 +1665,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8001" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8002" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8003" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.DeptConsunmer80_App" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7002_App" />
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.DeptConsunmer80_App" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7002_App" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7001_App" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7003_App" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.DeptProviderHystrix8001" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Spring Boot.DeptConsunmer80_App" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7002_App" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8003" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8002" />
-        <item index="4" class="java.lang.String" itemvalue="Spring Boot.DeptProvider8001" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.DeptProviderHystrix8001" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7003_App" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7002_App" />
+        <item index="4" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7001_App" />
       </list>
     </recent_temporary>
   </component>
@@ -1731,6 +1695,7 @@
       <workItem from="1566041641380" duration="5604000" />
       <workItem from="1566093724599" duration="22977000" />
       <workItem from="1566134291229" duration="6920000" />
+      <workItem from="1566223303044" duration="5089000" />
     </task>
     <servers />
   </component>
@@ -1746,11 +1711,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36000000" />
+    <option name="totallyTimeSpent" value="41089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1064" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1774,7 +1738,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30723542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2526998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1802,806 +1766,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/1.3.3.RELEASE/spring-cloud-dependencies-parent-1.3.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="196" column="50" lean-forward="true" selection-start-line="196" selection-start-column="50" selection-end-line="196" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Dalston.SR3/spring-cloud-dependencies-Dalston.SR3.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="115" column="49" lean-forward="true" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="725.5983148063547">git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT</node>
-            <node x="499.5" y="0.0">git.gaozhanghappy:microservicecloudapi:jar:0.0.1-SNAPSHOT</node>
-            <node x="947.5" y="0.0">git.gaozhanghappy:microservicecloudapi:jar:0.0.1-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18</node>
-            <node x="567.0" y="1352.781648139688">com.alibaba:druid:jar:1.1.12</node>
-            <node x="2376.5" y="248.08333333333326">ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="468.0" y="602.3483148063547">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1</node>
-            <node x="1319.0" y="553.5983148063547">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE</node>
-            <node x="1689.0" y="385.59831480635467">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE</node>
-            <node x="2086.0" y="287.6333333333333">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
-            <node x="2098.0" y="373.6333333333333">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
-            <node x="2106.5" y="545.6333333333333">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="2085.5" y="459.6333333333333">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
-            <node x="873.5" y="285.1733148063546">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE</node>
-            <node x="1349.5" y="285.1733148063546">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23</node>
-            <node x="1763.5" y="285.1733148063546">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23/org.apache.tomcat:tomcat-juli:jar:8.5.23</node>
-            <node x="2383.0" y="162.08333333333326">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE</node>
-            <node x="2645.5" y="119.5">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE</node>
-            <node x="1248.0" y="663.4606225572318">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.1</node>
-            <node x="946.0" y="696.9606225572318">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis:mybatis:jar:3.5.1</node>
-            <node x="914.5" y="602.3483148063547">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis:mybatis-spring:jar:2.0.1</node>
-            <node x="483.0" y="1816.031648139688">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE</node>
-            <node x="925.0" y="1959.1841226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914</node>
-            <node x="1325.0" y="1953.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-continuation:jar:9.4.7.v20170914</node>
-            <node x="3185.0" y="1752.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914</node>
-            <node x="3640.0" y="1645.8024744936831">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914</node>
-            <node x="3436.5" y="1578.3858078270166">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914</node>
-            <node x="2093.0" y="1346.1772892238982">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914</node>
-            <node x="2394.5" y="1364.8358078270164">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-xml:jar:9.4.7.v20170914</node>
-            <node x="2382.0" y="1513.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914</node>
-            <node x="2628.0" y="1513.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914</node>
-            <node x="2901.0" y="1513.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914</node>
-            <node x="1328.0" y="1784.7568334094726">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914</node>
-            <node x="2064.0" y="1741.2901667428062">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914</node>
-            <node x="2370.5" y="1819.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-api:jar:9.4.7.v20170914</node>
-            <node x="1738.0" y="1502.9606225572318">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914</node>
-            <node x="2903.0" y="1599.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-client:jar:9.4.7.v20170914</node>
-            <node x="2074.0" y="1886.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914</node>
-            <node x="3158.0" y="1666.4341226333713">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914/javax.servlet:javax.servlet-api:jar:3.1.0</node>
-            <node x="856.5" y="1369.0983148063547">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914</node>
-            <node x="1328.5" y="1263.9606225572318">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914</node>
-            <node x="1769.5" y="1355.2606225572317">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-plus:jar:9.4.7.v20170914</node>
-            <node x="1723.0" y="1246.8333333333333">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/javax.annotation:javax.annotation-api:jar:1.2</node>
-            <node x="2416.0" y="1170.8735000761394">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm:jar:5.1</node>
-            <node x="1747.5" y="1148.8735000761394">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1</node>
-            <node x="2113.0" y="1148.8735000761394">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1/org.ow2.asm:asm-tree:jar:5.1</node>
-            <node x="1281.0" y="1349.9606225572318">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:javax-websocket-client-impl:jar:9.4.7.v20170914</node>
-            <node x="1316.5" y="1435.9606225572318">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/javax.websocket:javax.websocket-api:jar:1.0</node>
-            <node x="938.0" y="1852.7833333333333">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.mortbay.jasper:apache-el:jar:8.0.33</node>
-            <node x="486.5" y="967.5983148063547">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE</node>
-            <node x="1331.0" y="890.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE</node>
-            <node x="844.0" y="868.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE</node>
-            <node x="939.0" y="935.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
-            <node x="1357.0" y="957.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
-            <node x="2398.5" y="467.3235000761392">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="930.5" y="1024.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
-            <node x="923.0" y="782.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
-            <node x="909.0" y="1091.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
-            <node x="938.0" y="1177.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
-            <node x="1347.5" y="1177.9606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
-            <node x="3177.0" y="684.5358078270165">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE</node>
-            <node x="3427.0" y="684.5358078270165">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE/org.springframework:spring-jcl:jar:5.0.2.RELEASE</node>
-            <node x="2902.5" y="1058.4606225572318">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE</node>
-            <node x="533.0" y="1438.781648139688">org.springframework:springloaded:jar:1.2.8.RELEASE</node>
-            <node x="1310.5" y="749.4606225572318">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE</node>
-            <node x="2099.5" y="715.1608078270165">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE</node>
-            <node x="2370.0" y="689.7858078270165">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE</node>
-            <node x="2637.0" y="673.0358078270165">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE</node>
-            <node x="2873.0" y="740.0358078270165">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE</node>
-            <node x="1694.5" y="676.3833333333333">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE</node>
-            <node x="2635.5" y="33.5">org.springframework:spring-web:jar:5.1.9.RELEASE</node>
-            <node x="2893.0" y="231.53580782701647">org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE">
-              <point x="129.5" y="10.222222222222229" />
-              <point x="764.0" y="1000.8205370285768" />
-              <point x="844.0" y="1081.4606225572318" />
-              <point x="-73.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE" target="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
-              <point x="65.0" y="11.5" />
-              <point x="2793.0" y="154.0" />
-              <point x="2873.0" y="245.33580782701642" />
-              <point x="-82.5" y="-9.200000000000045" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="81.0" y="5.75" />
-              <point x="1168.0" y="1987.9341226333713" />
-              <point x="1248.0" y="2009.9341226333713" />
-              <point x="3347.0" y="2009.9341226333713" />
-              <point x="-57.0" y="19.166666666666742" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="git.gaozhanghappy:microservicecloudapi:jar:0.0.1-SNAPSHOT">
-              <point x="194.0" y="-20.444444444444343" />
-              <point x="468.0" y="23.0" />
-              <point x="-116.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="79.0" y="-0.0" />
-              <point x="2290.0" y="396.6333333333333" />
-              <point x="2370.0" y="481.1235000761392" />
-              <point x="-60.5" y="-9.200000000000045" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="ch.qos.logback:logback-core:jar:1.2.3">
-              <point x="91.0" y="-11.5" />
-              <point x="2290.0" y="299.1333333333333" />
-              <point x="-82.5" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="67.0" y="-11.5" />
-              <point x="2290.0" y="947.4606225572318" />
-              <point x="2370.0" y="508.7235000761392" />
-              <point x="-60.5" y="18.399999999999977" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914">
-              <point x="72.5" y="11.5" />
-              <point x="3078.0" y="1633.9341226333713" />
-              <point x="3158.0" y="1769.6841226333713" />
-              <point x="-67.5" y="-5.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE">
-              <point x="148.0" y="-9.200000000000045" />
-              <point x="844.0" y="588.0983148063547" />
-              <point x="-109.5" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
-              <point x="142.0" y="-0.0" />
-              <point x="2064.0" y="732.4108078270165" />
-              <point x="-77.5" y="-5.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="98.5" y="-9.200000000000045" />
-              <point x="1984.0" y="1516.7606225572317" />
-              <point x="2064.0" y="1445.7568334094726" />
-              <point x="3560.0" y="1445.7568334094726" />
-              <point x="-63.0" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE">
-              <point x="162.0" y="11.5" />
-              <point x="-97.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914/javax.servlet:javax.servlet-api:jar:3.1.0">
-              <point x="103.0" y="11.5" />
-              <point x="3078.0" y="1920.9341226333713" />
-              <point x="-94.5" y="11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE">
-              <point x="109.5" y="-17.25" />
-              <point x="1609.0" y="559.3483148063547" />
-              <point x="-147.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="67.5" y="11.5" />
-              <point x="3560.0" y="1786.9341226333713" />
-              <point x="-63.0" y="3.8333333333332575" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-xml:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="64.5" y="-0.0" />
-              <point x="3560.0" y="1387.8358078270164" />
-              <point x="-63.0" y="-19.166666666666742" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1">
-              <point x="194.0" y="-5.111111111111086" />
-              <point x="-148.0" y="-0.0" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE">
-              <point x="194.0" y="20.444444444444343" />
-              <point x="468.0" y="1839.031648139688" />
-              <point x="-133.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.9.RELEASE" target="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
-              <point x="75.0" y="11.5" />
-              <point x="2873.0" y="236.13580782701638" />
-              <point x="-82.5" y="-18.40000000000009" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis:mybatis-spring:jar:2.0.1">
-              <point x="148.0" y="-0.0" />
-              <point x="-91.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE">
-              <point x="148.0" y="-18.399999999999977" />
-              <point x="844.0" y="308.1733148063546" />
-              <point x="-132.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE/org.springframework:spring-jcl:jar:5.0.2.RELEASE">
-              <point x="75.5" y="-0.0" />
-              <point x="-66.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914">
-              <point x="84.0" y="11.5" />
-              <point x="2290.0" y="1380.6772892238982" />
-              <point x="-77.0" y="-11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE">
-              <point x="132.5" y="15.333333333333258" />
-              <point x="1168.0" y="323.50664813968785" />
-              <point x="1248.0" y="565.0983148063547" />
-              <point x="-109.5" y="-11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
-              <point x="109.5" y="17.25" />
-              <point x="1609.0" y="593.8483148063547" />
-              <point x="-142.0" y="-17.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-plus:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914">
-              <point x="67.0" y="-0.0" />
-              <point x="1984.0" y="1378.2606225572317" />
-              <point x="2064.0" y="1369.1772892238982" />
-              <point x="-84.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
-              <point x="89.0" y="-17.25" />
-              <point x="2628.0" y="662.5358078270165" />
-              <point x="2793.0" y="662.5358078270165" />
-              <point x="2873.0" y="263.7358078270165" />
-              <point x="-82.5" y="9.200000000000045" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1">
-              <point x="100.0" y="-18.40000000000009" />
-              <point x="1609.0" y="1268.5606225572317" />
-              <point x="1689.0" y="1171.8735000761394" />
-              <point x="-89.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="129.5" y="-0.0" />
-              <point x="764.0" y="990.5983148063547" />
-              <point x="844.0" y="1014.4606225572318" />
-              <point x="3078.0" y="1014.4606225572318" />
-              <point x="3158.0" y="724.2630805542892" />
-              <point x="-75.5" y="16.727272727272748" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/javax.annotation:javax.annotation-api:jar:1.2">
-              <point x="100.0" y="-0.0" />
-              <point x="1609.0" y="1286.9606225572318" />
-              <point x="1689.0" y="1269.8333333333333" />
-              <point x="-113.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="82.5" y="-0.0" />
-              <point x="3078.0" y="254.53580782701647" />
-              <point x="3158.0" y="699.1721714633802" />
-              <point x="-75.5" y="-8.36363636363636" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloudapi:jar:0.0.1-SNAPSHOT" target="git.gaozhanghappy:microservicecloudapi:jar:0.0.1-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18">
-              <point x="116.5" y="-0.0" />
-              <point x="-58.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="109.5" y="-5.75" />
-              <point x="1609.0" y="570.8483148063547" />
-              <point x="1689.0" y="602.1333333333333" />
-              <point x="3078.0" y="602.1333333333333" />
-              <point x="3158.0" y="703.3539896451983" />
-              <point x="-75.5" y="-4.181818181818187" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-plus:jar:9.4.7.v20170914">
-              <point x="100.0" y="18.40000000000009" />
-              <point x="1609.0" y="1305.3606225572319" />
-              <point x="1689.0" y="1378.2606225572317" />
-              <point x="-67.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE" target="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
-              <point x="73.5" y="-11.5" />
-              <point x="2873.0" y="272.93580782701656" />
-              <point x="-82.5" y="18.40000000000009" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="67.5" y="-11.5" />
-              <point x="3347.0" y="1763.9341226333713" />
-              <point x="-57.0" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE">
-              <point x="77.5" y="-11.5" />
-              <point x="2290.0" y="726.6608078270165" />
-              <point x="-89.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23">
-              <point x="132.5" y="-0.0" />
-              <point x="-79.0" y="-0.0" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE">
-              <point x="194.0" y="-0.0" />
-              <point x="468.0" y="772.4606225572318" />
-              <point x="-118.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="72.5" y="-11.5" />
-              <point x="3347.0" y="1610.9341226333713" />
-              <point x="-57.0" y="-3.8333333333332575" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914">
-              <point x="81.0" y="-17.25" />
-              <point x="1168.0" y="1964.9341226333713" />
-              <point x="1248.0" y="1942.9341226333713" />
-              <point x="3078.0" y="1942.9341226333713" />
-              <point x="3158.0" y="1792.6841226333713" />
-              <point x="-67.5" y="17.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE">
-              <point x="89.0" y="-5.75" />
-              <point x="-73.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1/org.ow2.asm:asm-tree:jar:5.1">
-              <point x="89.0" y="-0.0" />
-              <point x="-64.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11">
-              <point x="147.5" y="-17.25" />
-              <point x="2064.0" y="310.6333333333333" />
-              <point x="-91.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914">
-              <point x="149.5" y="17.25" />
-              <point x="1168.0" y="1409.3483148063547" />
-              <point x="1248.0" y="1796.2568334094726" />
-              <point x="-100.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
-              <point x="97.5" y="-0.0" />
-              <point x="1984.0" y="913.9606225572318" />
-              <point x="2064.0" y="755.4108078270165" />
-              <point x="-77.5" y="17.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="73.5" y="11.5" />
-              <point x="-75.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914">
-              <point x="100.5" y="-9.200000000000045" />
-              <point x="1609.0" y="1798.5568334094726" />
-              <point x="1689.0" y="1682.8166666666666" />
-              <point x="2290.0" y="1682.8166666666666" />
-              <point x="-77.0" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914">
-              <point x="133.0" y="18.40000000000009" />
-              <point x="764.0" y="1857.4316481396881" />
-              <point x="844.0" y="1982.1841226333713" />
-              <point x="-81.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-client:jar:9.4.7.v20170914">
-              <point x="98.5" y="9.200000000000045" />
-              <point x="1984.0" y="1535.1606225572318" />
-              <point x="2064.0" y="1622.4341226333713" />
-              <point x="-72.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="89.0" y="5.75" />
-              <point x="2628.0" y="729.5358078270165" />
-              <point x="3078.0" y="729.5358078270165" />
-              <point x="3158.0" y="711.7176260088347" />
-              <point x="-75.5" y="4.181818181818187" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE">
-              <point x="194.0" y="5.111111111111086" />
-              <point x="468.0" y="990.5983148063547" />
-              <point x="-129.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1/org.ow2.asm:asm-tree:jar:5.1" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm:jar:5.1">
-              <point x="64.0" y="-0.0" />
-              <point x="2290.0" y="1171.8735000761394" />
-              <point x="2370.0" y="1182.3735000761394" />
-              <point x="-43.0" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0">
-              <point x="129.5" y="-5.111111111111114" />
-              <point x="764.0" y="985.4872036952435" />
-              <point x="844.0" y="958.9606225572318" />
-              <point x="-67.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-xml:jar:9.4.7.v20170914">
-              <point x="84.0" y="-11.5" />
-              <point x="2290.0" y="1357.6772892238982" />
-              <point x="2370.0" y="1376.3358078270164" />
-              <point x="-64.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.assertj:assertj-core:jar:2.6.0">
-              <point x="129.5" y="5.111111111111086" />
-              <point x="764.0" y="995.7094259174658" />
-              <point x="844.0" y="1047.9606225572318" />
-              <point x="-75.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-continuation:jar:9.4.7.v20170914">
-              <point x="81.0" y="-5.75" />
-              <point x="-103.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="113.0" y="-0.0" />
-              <point x="2370.0" y="1808.9341226333713" />
-              <point x="3560.0" y="1808.9341226333713" />
-              <point x="-63.0" y="11.5" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.springframework:springloaded:jar:1.2.8.RELEASE">
-              <point x="194.0" y="15.333333333333258" />
-              <point x="468.0" y="1461.781648139688" />
-              <point x="-83.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914">
-              <point x="77.0" y="-0.0" />
-              <point x="-82.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914">
-              <point x="149.5" y="-17.25" />
-              <point x="1168.0" y="1374.8483148063547" />
-              <point x="1248.0" y="1286.9606225572318" />
-              <point x="-100.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE">
-              <point x="129.5" y="-15.333333333333343" />
-              <point x="764.0" y="975.2649814730213" />
-              <point x="-162.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1">
-              <point x="68.0" y="-0.0" />
-              <point x="-81.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25">
-              <point x="147.5" y="5.75" />
-              <point x="2064.0" y="482.6333333333333" />
-              <point x="-91.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="102.5" y="-0.0" />
-              <point x="3158.0" y="715.899444190653" />
-              <point x="-75.5" y="8.363636363636362" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="91.5" y="-0.0" />
-              <point x="2290.0" y="482.6333333333333" />
-              <point x="2370.0" y="490.3235000761392" />
-              <point x="-60.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="76.0" y="-0.0" />
-              <point x="2548.0" y="185.08333333333326" />
-              <point x="2628.0" y="176.0" />
-              <point x="3078.0" y="176.0" />
-              <point x="3158.0" y="694.990353281562" />
-              <point x="-75.5" y="-12.545454545454561" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914">
-              <point x="100.5" y="9.200000000000045" />
-              <point x="1609.0" y="1816.9568334094727" />
-              <point x="1689.0" y="1875.9341226333713" />
-              <point x="3078.0" y="1875.9341226333713" />
-              <point x="3158.0" y="1781.1841226333713" />
-              <point x="-67.5" y="5.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914">
-              <point x="82.5" y="-0.0" />
-              <point x="-74.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="75.0" y="-11.5" />
-              <point x="3078.0" y="45.0" />
-              <point x="3158.0" y="686.6267169179257" />
-              <point x="-75.5" y="-20.909090909090878" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.mortbay.jasper:apache-el:jar:8.0.33">
-              <point x="133.0" y="9.200000000000045" />
-              <point x="764.0" y="1848.2316481396879" />
-              <point x="844.0" y="1875.7833333333333" />
-              <point x="-68.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="77.5" y="11.5" />
-              <point x="2290.0" y="749.6608078270165" />
-              <point x="2370.0" y="796.5358078270165" />
-              <point x="3078.0" y="796.5358078270165" />
-              <point x="3158.0" y="720.0812623724711" />
-              <point x="-75.5" y="12.545454545454561" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="ch.qos.logback:logback-core:jar:1.2.3">
-              <point x="194.0" y="-10.222222222222172" />
-              <point x="468.0" y="167.42469671590538" />
-              <point x="2290.0" y="167.42469671590538" />
-              <point x="-82.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914">
-              <point x="74.5" y="15.333333333333258" />
-              <point x="3078.0" y="1551.7674559667043" />
-              <point x="3158.0" y="1758.1841226333713" />
-              <point x="-67.5" y="-17.25" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25">
-              <point x="147.5" y="-5.75" />
-              <point x="2064.0" y="396.6333333333333" />
-              <point x="-79.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914">
-              <point x="100.5" y="-0.0" />
-              <point x="1609.0" y="1807.7568334094726" />
-              <point x="1689.0" y="1775.7901667428062" />
-              <point x="-113.0" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/javax.websocket:javax.websocket-api:jar:1.0">
-              <point x="149.5" y="5.75" />
-              <point x="1168.0" y="1397.8483148063547" />
-              <point x="1248.0" y="1458.9606225572318" />
-              <point x="-112.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914">
-              <point x="133.0" y="-9.200000000000045" />
-              <point x="764.0" y="1829.8316481396878" />
-              <point x="844.0" y="1492.4606225572318" />
-              <point x="1984.0" y="1492.4606225572318" />
-              <point x="2064.0" y="1384.5106225572317" />
-              <point x="-84.0" y="15.333333333333258" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914">
-              <point x="133.0" y="-18.40000000000009" />
-              <point x="764.0" y="1820.631648139688" />
-              <point x="844.0" y="1392.0983148063547" />
-              <point x="-149.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23/org.apache.tomcat:tomcat-juli:jar:8.5.23">
-              <point x="79.0" y="-0.0" />
-              <point x="-73.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19">
-              <point x="129.5" y="-20.444444444444457" />
-              <point x="764.0" y="970.1538703619101" />
-              <point x="844.0" y="805.9606225572318" />
-              <point x="-83.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914">
-              <point x="98.5" y="18.40000000000009" />
-              <point x="1984.0" y="1544.3606225572319" />
-              <point x="-113.0" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914">
-              <point x="133.0" y="-0.0" />
-              <point x="764.0" y="1839.031648139688" />
-              <point x="844.0" y="1819.2568334094726" />
-              <point x="-100.5" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914">
-              <point x="100.5" y="18.40000000000009" />
-              <point x="1609.0" y="1826.1568334094727" />
-              <point x="1689.0" y="1909.4341226333713" />
-              <point x="-103.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:javax-websocket-client-impl:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914">
-              <point x="147.5" y="-0.0" />
-              <point x="1609.0" y="1372.9606225572318" />
-              <point x="1689.0" y="1514.4606225572318" />
-              <point x="-98.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-api:jar:9.4.7.v20170914">
-              <point x="113.0" y="15.333333333333258" />
-              <point x="-88.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
-              <point x="162.0" y="-11.5" />
-              <point x="1609.0" y="880.4606225572318" />
-              <point x="-142.0" y="17.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
-              <point x="129.5" y="15.333333333333314" />
-              <point x="764.0" y="1005.9316481396879" />
-              <point x="844.0" y="1114.9606225572318" />
-              <point x="-97.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE">
-              <point x="89.0" y="17.25" />
-              <point x="2628.0" y="763.0358078270165" />
-              <point x="-102.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
-              <point x="76.0" y="15.333333333333258" />
-              <point x="2548.0" y="200.41666666666652" />
-              <point x="2628.0" y="254.53580782701647" />
-              <point x="-82.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914">
-              <point x="100.0" y="9.200000000000045" />
-              <point x="1609.0" y="1296.1606225572318" />
-              <point x="1689.0" y="1344.7606225572317" />
-              <point x="1984.0" y="1344.7606225572317" />
-              <point x="2064.0" y="1353.8439558905652" />
-              <point x="-84.0" y="-15.333333333333258" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="81.0" y="17.25" />
-              <point x="1168.0" y="1999.4341226333713" />
-              <point x="1248.0" y="2020.9341226333713" />
-              <point x="3560.0" y="2020.9341226333713" />
-              <point x="-63.0" y="19.166666666666742" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.1" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
-              <point x="180.5" y="-0.0" />
-              <point x="-142.0" y="-5.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
-              <point x="109.5" y="5.75" />
-              <point x="1609.0" y="582.3483148063547" />
-              <point x="1689.0" y="629.8833333333333" />
-              <point x="1984.0" y="629.8833333333333" />
-              <point x="2064.0" y="720.9108078270165" />
-              <point x="-77.5" y="-17.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0">
-              <point x="129.5" y="20.444444444444457" />
-              <point x="764.0" y="1011.042759250799" />
-              <point x="844.0" y="1200.9606225572318" />
-              <point x="-68.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="74.5" y="-15.333333333333258" />
-              <point x="3078.0" y="1521.1007893000378" />
-              <point x="3158.0" y="1538.8772892238985" />
-              <point x="3347.0" y="1538.8772892238985" />
-              <point x="-57.0" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914">
-              <point x="57.0" y="-0.0" />
-              <point x="-63.0" y="-3.8333333333332575" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE">
-              <point x="76.0" y="-15.333333333333258" />
-              <point x="2548.0" y="169.75" />
-              <point x="2628.0" y="142.5" />
-              <point x="-65.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm:jar:5.1">
-              <point x="100.0" y="-9.200000000000045" />
-              <point x="1609.0" y="1277.7606225572317" />
-              <point x="1689.0" y="1205.3735000761394" />
-              <point x="-43.0" y="11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914/javax.servlet:javax.servlet-api:jar:3.1.0">
-              <point x="74.5" y="-0.0" />
-              <point x="3078.0" y="1536.4341226333713" />
-              <point x="-94.5" y="-11.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="98.5" y="-0.0" />
-              <point x="1984.0" y="1525.9606225572318" />
-              <point x="2064.0" y="1502.9341226333713" />
-              <point x="3347.0" y="1502.9341226333713" />
-              <point x="-57.0" y="-19.166666666666742" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1">
-              <point x="67.0" y="11.5" />
-              <point x="1168.0" y="970.4606225572318" />
-              <point x="1248.0" y="980.9606225572318" />
-              <point x="-71.5" y="-0.0" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="com.alibaba:druid:jar:1.1.12">
-              <point x="194.0" y="10.222222222222172" />
-              <point x="468.0" y="1375.781648139688" />
-              <point x="-49.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914">
-              <point x="113.0" y="-15.333333333333258" />
-              <point x="2370.0" y="1655.9341226333713" />
-              <point x="3347.0" y="1655.9341226333713" />
-              <point x="-57.0" y="3.8333333333332575" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
-              <point x="118.0" y="-11.5" />
-              <point x="1609.0" y="760.9606225572318" />
-              <point x="-142.0" y="5.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE">
-              <point x="129.5" y="-10.222222222222229" />
-              <point x="764.0" y="980.3760925841324" />
-              <point x="844.0" y="925.4606225572318" />
-              <point x="-97.5" y="11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.1">
-              <point x="148.0" y="9.200000000000045" />
-              <point x="844.0" y="686.4606225572318" />
-              <point x="-180.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914">
-              <point x="100.5" y="-18.40000000000009" />
-              <point x="1609.0" y="1789.3568334094725" />
-              <point x="1689.0" y="1537.4606225572318" />
-              <point x="-98.5" y="11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE">
-              <point x="132.5" y="-15.333333333333258" />
-              <point x="1168.0" y="292.83998147302134" />
-              <point x="1248.0" y="221.03580782701647" />
-              <point x="2290.0" y="221.03580782701647" />
-              <point x="2370.0" y="185.08333333333326" />
-              <point x="-76.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="91.0" y="11.5" />
-              <point x="2290.0" y="322.1333333333333" />
-              <point x="2370.0" y="471.92350007613925" />
-              <point x="-60.5" y="-18.399999999999977" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="65.0" y="-11.5" />
-              <point x="3078.0" y="131.0" />
-              <point x="3158.0" y="690.8085350997438" />
-              <point x="-75.5" y="-16.72727272727269" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="70.5" y="-0.0" />
-              <point x="2290.0" y="568.6333333333333" />
-              <point x="2370.0" y="499.52350007613927" />
-              <point x="-60.5" y="9.200000000000045" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-api:jar:9.4.7.v20170914">
-              <point x="103.0" y="-11.5" />
-              <point x="-88.5" y="11.5" />
-            </edge>
-            <edge source="git.gaozhanghappy:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT" target="org.springframework:spring-web:jar:5.1.9.RELEASE">
-              <point x="194.0" y="-15.333333333333258" />
-              <point x="468.0" y="56.5" />
-              <point x="-75.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
-              <point x="73.0" y="-0.0" />
-              <point x="3078.0" y="1081.4606225572318" />
-              <point x="3158.0" y="728.4448987361075" />
-              <point x="-75.5" y="20.909090909090907" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
-              <point x="118.0" y="11.5" />
-              <point x="1609.0" y="783.9606225572318" />
-              <point x="1689.0" y="791.1333333333333" />
-              <point x="1984.0" y="791.1333333333333" />
-              <point x="2064.0" y="743.9108078270165" />
-              <point x="-77.5" y="5.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.mybatis:mybatis:jar:3.5.1">
-              <point x="148.0" y="18.399999999999977" />
-              <point x="844.0" y="719.9606225572318" />
-              <point x="-60.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-xml:jar:9.4.7.v20170914">
-              <point x="98.5" y="-18.40000000000009" />
-              <point x="1984.0" y="1507.5606225572317" />
-              <point x="2064.0" y="1423.7568334094726" />
-              <point x="2290.0" y="1423.7568334094726" />
-              <point x="2370.0" y="1399.3358078270164" />
-              <point x="-64.5" y="11.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.1/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
-              <point x="147.5" y="17.25" />
-              <point x="2064.0" y="568.6333333333333" />
-              <point x="-70.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914" target="org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:javax-websocket-client-impl:jar:9.4.7.v20170914">
-              <point x="149.5" y="-5.75" />
-              <point x="1168.0" y="1386.3483148063547" />
-              <point x="1248.0" y="1372.9606225572318" />
-              <point x="-147.5" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.5993554327808472" x="1309.0" y="1852.0" />
-          <SelectedNodes>
-            <node>org.springframework:spring-web:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Compile</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/test/java/git/gaozhanghappy/DeptProvider8001Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/test/java/git/gaozhanghappy/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/BaiduNetdiskDownload/尚硅谷-SpringCloud视频教程-周阳【推荐】/codes/微服务架构源码/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2666,14 +1830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="95" column="19" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="95" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2759,7 +1915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2785,7 +1940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="86" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2794,11 +1948,11 @@
         <state relative-caret-position="280">
           <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#3364#3365#0" expanded="true" />
-            <element signature="e#3427#3428#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#864#865#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#3364#3365#0" expanded="false" />
+            <element signature="e#3427#3428#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2808,9 +1962,9 @@
         <state relative-caret-position="340">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#344#345#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2873,19 +2027,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/git/gaozhanghappy/DeptProvider8001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="300">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
@@ -2909,7 +2053,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloudeureka7002/src/main/java/git/gaozhanghappy/EurekaServer7002_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="300">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -2917,7 +2061,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloudeureka7002/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="390">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -2925,34 +2069,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloudeureka7003/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
+        <state relative-caret-position="780">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/cfgbeans/ConfigBean.java">
+    <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/DeptProviderHystrix8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/git/gaozhanghappy/conreoller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="65" lean-forward="false" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
           <folding>
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="67" lean-forward="false" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/DeptConsunmer80_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="270">
           <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2962,12 +2151,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/controller/DeptController_Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="322">
+          <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/git/gaozhanghappy/cfgbeans/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudapi/src/main/java/git/gaozhanghappy/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

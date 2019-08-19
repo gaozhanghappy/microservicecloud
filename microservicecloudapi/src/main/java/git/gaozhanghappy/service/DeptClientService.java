@@ -12,7 +12,8 @@ import java.util.List;
 /**
  * Created by Administrator on 2019/8/18.
  */
-@FeignClient(value = "MICROSERVICECLOUD-DEPT")
+//没有降级之前@FeignClient(value = "MICROSERVICECLOUD-DEPT")
+@FeignClient(value = "MICROSERVICECLOUD-DEPT",fallbackFactory = DeptClientServiceFallbackFactory.class)
 public interface DeptClientService {
     @RequestMapping(value = "/dept/add", method = RequestMethod.POST)
     public boolean add(@RequestBody Dept dept);

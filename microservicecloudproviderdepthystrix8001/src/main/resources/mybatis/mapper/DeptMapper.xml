@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="git.gaozhanghappy.mapper.DeptMapper" >
+
+    <insert id="addDept" parameterType="git.gaozhanghappy.entities.Dept">
+        INSERT INTO dept(dname,db_source) VALUES (#{dname},DATABASE());
+    </insert>
+    <select id="findById" resultType="git.gaozhanghappy.entities.Dept">
+        SELECT DEPTNO,DNAME,DB_SOURCE FROM dept WHERE DEPTNO=#{DEPTNO};
+    </select>
+    <select id="findAll" resultType="git.gaozhanghappy.entities.Dept">
+        SELECT DEPTNO,DNAME,DB_SOURCE FROM dept
+    </select>
+</mapper>
