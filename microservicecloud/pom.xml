@@ -23,6 +23,12 @@
         <module>../microservicecloudproviderdept8002</module>
         <module>../microservicecloudproviderdept8003</module>
         <module>../microservicecloudconsumerdeptfeign</module>
+        <module>../microservicecloudconsumerhystrixdashboard</module>
+        <module>../microservicecloudzuulgateway9527</module>
+        <module>../microservicecloudconfig3344</module>
+        <module>../microservicecloudconfig3355</module>
+        <module>../microservicecloudconfigeurekaclient7001</module>
+        <module>../microservicecloudconfigdeptclient8001</module>
     </modules>
 
     <properties>
